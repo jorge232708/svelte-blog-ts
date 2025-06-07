@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<h1>¡Hola desde la página de inicio!</h1>
+<p>Esta es la página principal de tu SvelteKit app.</p>

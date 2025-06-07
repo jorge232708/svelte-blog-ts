@@ -1,0 +1,34 @@
+/* src/lib/styles/variables.css */
+
+:root {
+    /* Paleta de colores Dark Theme (puedes ajustar a tu gusto) */
+    --color-background-1: #1a1a1a; /* Fondo principal */
+    --color-background-2: #282828; /* Fondo de contenedores/cards */
+    --color-background-3: #3a3a3a; /* Fondo de elementos interactivos/hover */
+
+    --color-text: #e0e0e0; /* Color principal del texto */
+    --color-text-light: #b0b0b0; /* Texto secundario o menos prominente */
+
+    --color-primary: #61dafb; /* Color principal (ej. títulos importantes, acentos) */
+    --color-primary-dark: #21a1f1; /* Variación más oscura del primario */
+
+    --color-secondary: #f0c674; /* Color secundario (ej. subtítulos, elementos secundarios) */
+    --color-secondary-dark: #d4a94a; /* Variación más oscura del secundario */
+
+    --color-accent: #a9dc76; /* Color de acento (ej. botones, enlaces activos) */
+    --color-accent-dark: #8fc74c; /* Variación más oscura del acento */
+
+    --color-border: #444444; /* Color para bordes */
+    --color-divider: #555555; /* Color para divisores */
+
+    /* Colores para código (si decides reintroducir resaltado de sintaxis o si el JSON tiene código) */
+    --color-code-background: #1e1e1e;
+    --color-code-inline-background: #333333;
+    --color-code-text: #c0c0c0;
+    --color-code-inline-text: #a0a0a0;
+
+    /* Fuentes (opcional) */
+    --font-family-body: 'Arial', sans-serif;
+    --font-family-heading: 'Helvetica Neue', sans-serif;
+    --font-family-code: 'Fira Code', 'Cascadia Code', monospace;
+}

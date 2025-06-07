@@ -1,0 +1,5 @@
+{
+    "id": "what-is-svelte",
+    "title": "Lección 1: ¿Qué es Svelte?",
+    "content": "¿Qué es Svelte?\n\n¡Bienvenido a Svelte! Svelte es un compilador de JavaScript que te permite construir interfaces de usuario de forma reactiva.\n\nA diferencia de frameworks como React o Vue, Svelte no es una librería que se ejecuta en el navegador. En su lugar, Svelte toma tu código durante el proceso de compilación y lo convierte en JavaScript puro y eficiente.\n\nPrincipales Características:\n\n* Sin Virtual DOM: Svelte manipula directamente el DOM, lo que a menudo resulta en un rendimiento superior.\n* Reactividad Intrínseca: La reactividad es una parte fundamental de Svelte y es muy fácil de usar.\n* Código Compilado: Genera paquetes de JavaScript muy pequeños, ya que no necesita enviar un runtime completo al navegador.\n\n¡Prepárate para una experiencia de desarrollo web diferente y emocionante con Svelte!"
+}
